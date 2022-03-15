@@ -1,14 +1,7 @@
 // Initialization of firebase
 
+//Your firebaseconfig data
 const firebaseConfig = {
-  apiKey: "AIzaSyAvlVtAg18ZEqLFPzIwsgQ9Ke3FAq3A_NM",
-  authDomain: "home-automation-9b63c.firebaseapp.com",
-  databaseURL: "https://home-automation-9b63c-default-rtdb.firebaseio.com",
-  projectId: "home-automation-9b63c",
-  storageBucket: "home-automation-9b63c.appspot.com",
-  messagingSenderId: "740655037718",
-  appId: "1:740655037718:web:3f31ad861645f87d9d6437",
-  measurementId: "G-1K2KNQED42"
 };
 
 firebase.initializeApp(firebaseConfig);
