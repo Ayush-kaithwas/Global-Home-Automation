@@ -13,3 +13,4 @@ firebase and rpi because of Real-Time data transmission.
 
       pip3 install pyrebase
 
+* Before using these file put your firebase configuration in script.js and Global_Home_Automation_Rpi code.txt files.
