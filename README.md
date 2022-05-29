@@ -1,6 +1,6 @@
 # Global-Home-Automation
 
-This is a automation project, using which you can controll any appliance from any place in the world.It uses Rpi 4 model B to send and receive data from firebase database.
+This is a automation project, using which you can control any appliance from any place in the world.It uses Rpi 4 model B to send and receive data from firebase database.
 
 ## Firebase
 
